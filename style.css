@@ -1,0 +1,126 @@
+a:link{
+    color:blue
+}
+a:visited{
+    color:cadetblue
+}
+a:hover{
+    color:green
+}
+a:active{
+    color:orangered
+}
+.page_title{
+	width:80%;
+	border-style: solid;
+	border-color: white;
+  	border-width: 1px;
+	border-radius: 50px;
+  	padding: 5px;
+	text-align: center
+}
+#welcome_title{
+	text-align: center;
+	background-color:rgb(37, 217, 103);
+}
+.ego_soft_logo, .image, .name{
+	width:300px;
+	border-style: solid;
+  	border-width: 2px;
+	border-radius: 25px;
+  	padding: 5px;
+	align: center
+}
+.image{
+	border-color: white;
+	background-color: rgb(79, 160, 226)
+}
+.class{
+	background-color: rgb(79, 160, 226);
+	color:white
+}
+#ego_home{
+	border-color:rgb(37, 217, 103);
+}
+#ego_about{
+	border-color:rgb(167, 32, 70);
+}
+#welcome_paragraph {
+	text-size: 50px
+}
+.hr_lines{
+	width:80%;
+	height: 5px;
+	background-color: white;
+	border-radius: 25px;
+	padding: 5px
+}
+.footers{
+	font-sixe:30px
+}
+.header_buttons{
+	background-color: white;
+	color: green;
+	display: inline-block;
+	fontsize: 15px;
+	border-radius: 25px;
+	transition-duration: 4s
+}
+.product_buttons{
+	background-color: rgb(79, 160, 226) ;
+	font-color: white;
+	display: inline-block;
+	fontsize: 15px;
+	border-radius: 25px;
+	transition-duration: 4s
+}
+#contact_title{
+	text-align: center;
+	background-color:rgb(250, 149, 9);
+	}
+#product_title{
+	text-align: center;
+	background-color:rgb(79, 160, 226);
+	}
+#order_title{
+	text-align: center;
+	background-color:rgb(141, 109, 173);
+	}
+.image
+#contact_form{
+	width:80%;
+	border-radius: 25px;
+	border-color: rgb(250, 149, 9);
+	padding: 5px;
+	border-bottom-color: white;
+	border-right-color: white
+}
+#order_form{
+	width:80%;
+	border-radius: 25px;
+	border-color: rgb(141, 109, 173);
+	padding: 5px;
+	border-bottom-color: white;
+	border-right-color: white
+}
+#order_steps{
+	width:60%
+}
+table {
+	text-align: center
+}
+#homeb{
+	background-image: linear-gradient(to bottom right, white 50% , rgb(37, 217, 103) 50%);
+}
+#productsb{
+	background-image: linear-gradient(to bottom right, white 50% , rgb(79, 160, 226) 50%);
+}
+#ordersb{
+	background-image: linear-gradient(to bottom right, white 50% , rgb(141, 109, 173) 50%);
+}
+#aboutb{
+	background-image: linear-gradient(to bottom right, white 50% , rgb(167, 32, 70) 50%);
+}
+#contactsb{
+	background-image: linear-gradient(to bottom right, white 50% , rgb(250, 149, 9) 50%);
+}
