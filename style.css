@@ -29,7 +29,7 @@ a:active{
   	border-width: 2px;
 	border-radius: 25px;
   	padding: 5px;
-	align: center
+	float: center
 }
 .image{
 	border-color: white;
@@ -46,7 +46,7 @@ a:active{
 	border-color:rgb(167, 32, 70);
 }
 #welcome_paragraph {
-	text-size: 50px
+	font-size: 50px
 }
 .hr_lines{
 	width:80%;
@@ -62,15 +62,15 @@ a:active{
 	background-color: white;
 	color: green;
 	display: inline-block;
-	fontsize: 15px;
+	font-size: 15px;
 	border-radius: 25px;
 	transition-duration: 4s
 }
 .product_buttons{
 	background-color: rgb(79, 160, 226) ;
-	font-color: white;
+	color: white;
 	display: inline-block;
-	fontsize: 15px;
+	font-size: 15px;
 	border-radius: 25px;
 	transition-duration: 4s
 }

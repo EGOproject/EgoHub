@@ -1,0 +1,123 @@
+a {
+    &:link {
+      color: blue;
+    }
+    &:visited {
+      color: cadetblue;
+    }
+    &:hover {
+      color: green;
+    }
+    &:active {
+      color: orangered;
+    }
+  }
+  
+  .page_title {
+    width: 80%;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 50px;
+    padding: 5px;
+    text-align: center;
+  }
+  
+  #welcome_title {
+    text-align: center;
+    background-color: rgb(37, 217, 103);
+  }
+  
+  .ego_soft_logo,
+  .image,
+  .name {
+    width: 300px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 25px;
+    padding: 5px;
+    float: center;
+  }
+  
+  .image {
+    border-color: white;
+    background-color: rgb(79, 160, 226);
+  }
+  
+  .class {
+    background-color: rgb(79, 160, 226);
+    color: white;
+  }
+  
+  #ego_home {
+    border-color: rgb(37, 217, 103);
+  }
+  
+  #ego_about {
+    border-color: rgb(167, 32, 70);
+  }
+  
+  #welcome_paragraph {
+    font-size: 50px;
+  }
+  
+  .hr_lines {
+    width: 80%;
+    height: 5px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 5px;
+  }
+  
+  .footers {
+    font-size: 30px;
+  }
+  
+  .header_buttons {
+    background-color: white;
+    color: green;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 25px;
+    transition-duration: 4s;
+  }
+  
+  .product_buttons {
+    background-color: rgb(79, 160, 226);
+    color: white;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 25px;
+    transition-duration: 4s;
+  }
+  
+  #contact_title {
+    text-align: center;
+    background-color: rgb(250, 149, 9);
+  }
+  
+  #product_title {
+    text-align: center;
+    background-color: rgb(79, 160, 226);
+  }
+  
+  #order_title {
+    text-align: center;
+    background-color: rgb(141, 109, 173);
+  }
+  
+  #contact_form {
+    width: 80%;
+    border-radius: 25px;
+    border-color: rgb(250, 149, 9);
+    padding: 5px;
+    border-bottom-color: white;
+    border-right-color: white;
+  }
+  
+  #order_form {
+    width: 80%;
+    border-radius: 25px;
+    border-color: rgb(141, 109, 173);
+    padding: 5px;
+  }
