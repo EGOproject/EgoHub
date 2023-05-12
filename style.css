@@ -40,9 +40,11 @@ a:active{
 	color:white
 }
 #ego_home{
+	background-color:rgb(37, 217, 103) ;
 	border-color:rgb(37, 217, 103);
 }
 #ego_about{
+	background-color:rgb(167, 32, 70) ;
 	border-color:rgb(167, 32, 70);
 }
 #welcome_paragraph {
